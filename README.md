@@ -1,8 +1,11 @@
 ## Hello World! 👋
 
 Welcome to to my GitHub profile! 
+
 Feel free to check out my repositories! ⚡
+
 Please keep in mind that most of the projects featured on my GitHub are from my formative days as a developer, and represent my first foray into the tools/frameworks/langauges used. 
+
 They were primarily completed as part of a coding bootcamp that I am attending (General Assembly), and an introductory software engineering course (CS50). 
 
 - 🔭 I’m currently completing the General Assembly Software Engineering Bootcamp.
