@@ -8,6 +8,6 @@ They were primarily completed as part of a coding bootcamp that I am attending (
 - 🔭 I’m currently completing the General Assembly Software Engineering Bootcamp.
 - 🌱 I’m currently learning how to build single page applications (SPAs) using modern tools and frameworks (i.e. React JS, AJAX)
 - 👯 I’m looking for any hybrid or remote opportunities in full-stack and front-end software development.
-- 📫 Reach me on my [LinkedIn] (www.linkedin.com/in/bernadine-dao) or email!
+- 📫 Reach me on my [LinkedIn](www.linkedin.com/in/bernadine-dao) or email!
 
 Before I got into software engineering, I had been working as a doctor in Melbourne, Australia, for just over 4 years. I then made the happy realisation that I loved the intellectual challenges of software engineering, and that coding tickled my brain in just the right way ... and the rest is history! 
