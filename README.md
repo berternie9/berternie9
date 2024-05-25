@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello World! 👋
 
-<!--
-**berternie9/berternie9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to to my GitHub profile! 
+Feel free to check out my repositories! ⚡
+Please keep in mind that most of the projects featured on my GitHub are from my formative days as a developer, and represent my first foray into the tools/frameworks/langauges used. 
+They were primarily completed as part of a coding bootcamp that I am attending (General Assembly), and an introductory software engineering course (CS50). 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently completing the General Assembly Software Engineering Bootcamp.
+- 🌱 I’m currently learning how to build single page applications (SPAs) using modern tools and frameworks (i.e. React JS, AJAX)
+- 👯 I’m looking for any hybrid or remote opportunities in full-stack and front-end software development.
+- 📫 Reach me on my [LinkedIn] (www.linkedin.com/in/bernadine-dao) or email!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before I got into software engineering, I had been working as a doctor in Melbourne, Australia, for just over 4 years. I then made the happy realisation that I loved the intellectual challenges of software engineering, and that coding tickled my brain in just the right way ... and the rest is history! 
