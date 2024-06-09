@@ -15,3 +15,25 @@ They were primarily completed as part of a coding bootcamp that I am attending (
 - 👀 Check out my portfolio website [here](https://berternie9.github.io/portfolio-website/).
 
 Before I got into software engineering, I had been working as a doctor in Melbourne, Australia, for about 4 years. I then made the happy realisation that I loved the intellectual challenges of software engineering, and that coding tickled my brain in just the right way ... and the rest is history 😄 
+
+My skills:
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- Express.js
+- Python
+- Flask
+- C
+- PostgreSQL
+- SQLite
+- Git
+- GitHub
+- VS Code
+- Jest
+- Render
+- Figma
+- Trello
+- React (in-progress)
+- MongoDB (in-progress)
+- TypeScript (in-progress)
