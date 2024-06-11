@@ -34,5 +34,6 @@ My skills:
 - Render
 - Figma
 - Trello
-- React (in-progress)
+- Vite
+- React 
 - MongoDB (in-progress)
