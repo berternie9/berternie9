@@ -20,6 +20,7 @@ My skills:
 - JavaScript
 - HTML
 - CSS
+- React
 - Node.js
 - Express.js
 - Python
@@ -35,5 +36,5 @@ My skills:
 - Figma
 - Trello
 - Vite
-- React 
+- Mantine
 - MongoDB (in-progress)
