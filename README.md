@@ -37,4 +37,4 @@ My skills:
 - Trello
 - Vite
 - Mantine
-- MongoDB (in-progress)
+- MongoDB 
