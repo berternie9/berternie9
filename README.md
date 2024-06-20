@@ -9,7 +9,7 @@ Please keep in mind that most of the projects featured on my GitHub are from my 
 They were primarily completed as part of a coding bootcamp that I am attending (General Assembly), and an introductory software engineering course (CS50). 
 
 - 🔭 I’m currently completing the General Assembly Software Engineering Bootcamp.
-- 🌱 I’m currently learning how to build single page applications (SPAs) using modern tools and frameworks (i.e. React JS, AJAX)
+- 🌱 I’m currently gaining hands-on experience building single page applications (SPAs) using modern tools and frameworks (i.e. React JS, AJAX)
 - 👯 I’m looking for any hybrid or remote opportunities in full-stack and front-end software development.
 - 📫 Reach me on my [LinkedIn](www.linkedin.com/in/bernadine-dao) or email!
 - 👀 Check out my portfolio website [here](https://berternie9.github.io/portfolio-website/).
