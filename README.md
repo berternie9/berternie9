@@ -6,11 +6,11 @@ Feel free to check out my repositories! ⚡
 
 Please keep in mind that most of the projects featured on my GitHub are from my formative days as a developer, and represent my first foray into the tools/frameworks/languages used. 
 
-They were primarily completed as part of a coding bootcamp that I am attending (General Assembly), and an introductory software engineering course (CS50). 
+They were primarily completed as part of a coding bootcamp that I have completed (General Assembly), and an introductory software engineering course (CS50). 
 
-- 🔭 I’m currently completing the General Assembly Software Engineering Bootcamp.
-- 🌱 I’m currently gaining hands-on experience building single page applications (SPAs) using modern tools and frameworks (i.e. React JS, AJAX)
-- 👯 I’m looking for any hybrid or remote opportunities in full-stack and front-end software development.
+- 🔭 I have completed the General Assembly Software Engineering Bootcamp.
+- 🌱 I’m currently upskilling across multiple domains, including TypeScript, Java, and building more Python-based apps. 
+- 👯 I’m looking for any hybrid or remote opportunities in full-stack or front-end/back-end software development.
 - 📫 Reach me on my [LinkedIn](www.linkedin.com/in/bernadine-dao) or email!
 - 👀 Check out my portfolio website [here](https://berternie9.github.io/portfolio-website/).
 
@@ -34,7 +34,11 @@ My skills:
 - Jest
 - Render
 - Figma
+- Miro
 - Trello
 - Vite
+- MUI
 - Mantine
-- MongoDB 
+- MongoDB
+- OAuth (Google)
+- AWS Cloud: S3, CloudFront, RDS, Lambda, API Gateway, EC2
